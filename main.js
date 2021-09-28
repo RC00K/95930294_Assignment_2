@@ -1,3 +1,7 @@
+// Ryder Cook
+// INF651 - Front End Web Development I
+// 27 September 2021
+
 /* Practice Assignment 3:
 
 Complete this javascript file according to the individual instructions
